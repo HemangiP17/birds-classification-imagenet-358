@@ -19,7 +19,7 @@ For more details on the model architecture, refer to the model.summary() output 
 The training history and accuracy plot are saved in the results directory. The training loss, training accuracy, validation loss, and validation accuracy are plotted over the training epochs.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more information.
+This project is licensed under the MIT License.
 
 ## Acknowledgments
 The Xception model and its weights are provided by the TensorFlow Keras library, based on the original paper:
